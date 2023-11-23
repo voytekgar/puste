@@ -14,7 +14,7 @@
   ],
   "scripts": {
     "clean": "turbo run clean",
-    "start": "yarn workspace @cortexapps/brain-app start",
+    "start": "yarn workspace @cortexapps/brain-app start ",
     "start:prod": "yarn workspace @cortexapps/brain-app start:prod",
     "start:demo": "yarn workspace @cortexapps/brain-app start:demo",
     "start:localdemo": "yarn workspace @cortexapps/brain-app start:localdemo",
