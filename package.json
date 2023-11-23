@@ -13,7 +13,7 @@
     "packages/**/*"
   ],
   "scripts": {
-    "clean": "turbo run cleanX", 
+    "clean": "turbo run clean", 
     "start": "yarn workspace @cortexapps/brain-app start",
     "start:prod": "yarn workspace @cortexapps/brain-app start:prod",
     "start:demo": "yarn workspace @cortexapps/brain-app start:demo",
