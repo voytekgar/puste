@@ -7,7 +7,7 @@
   },
   "engines": {
     "npm": "please-use-yarn",
-    "yarn": ">=1.22.18"
+    "yarn": ">=1.22.181"
   },
   "workspaces": [
     "apps/@cortexapps/*",
