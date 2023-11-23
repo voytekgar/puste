@@ -1,6 +1,7 @@
 {
   "name": "root",
   "private": true,
+  "version": "dummy",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
