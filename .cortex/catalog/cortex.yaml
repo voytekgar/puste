@@ -1,0 +1,9 @@
+openapi: 3.0.1
+info:
+  title: Puste14
+  x-cortex-git:
+    github:
+      alias: voytekgar
+      repository: voytekgar-org/puste
+  x-cortex-tag: puste
+  x-cortex-type: service
